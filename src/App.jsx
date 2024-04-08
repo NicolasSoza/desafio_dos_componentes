@@ -28,7 +28,7 @@ function App(props) {
       
 <Alert mensaje={mensaje} tipo="success" />
 
-<p></p>
+
 
 
     </div>
